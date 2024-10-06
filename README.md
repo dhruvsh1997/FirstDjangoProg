@@ -1,0 +1,2 @@
+# FirstDjangoProg
+InitialDjangoProject
